@@ -6,3 +6,6 @@ Built with EasyGui, PokéAPI, gTTS
 
 
 The executable was built with Pyinstaller on Windows 11
+
+
+Icon from [Icons For Free](https://icons-for-free.com/pikachu+pokeball+pokemon+icon-1320184857556086253/)
