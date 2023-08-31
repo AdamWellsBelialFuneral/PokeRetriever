@@ -4,5 +4,3 @@
 
 ### Built with [EasyGui](https://pypi.org/project/easygui/), [PokéAPI](https://pokeapi.co/), [gTTS](https://pypi.org/project/gTTS/), [PyGame mixer](https://www.pygame.org/docs/ref/mixer.html)
 
-
-Icon from [Icons For Free](https://icons-for-free.com/pikachu+pokeball+pokemon+icon-1320184857556086253/)
